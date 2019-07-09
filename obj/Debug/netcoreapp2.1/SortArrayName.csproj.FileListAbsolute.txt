@@ -1,0 +1,11 @@
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\bin\Debug\netcoreapp2.1\SortArrayName.deps.json
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\bin\Debug\netcoreapp2.1\SortArrayName.runtimeconfig.json
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\bin\Debug\netcoreapp2.1\SortArrayName.runtimeconfig.dev.json
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\bin\Debug\netcoreapp2.1\SortArrayName.dll
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\bin\Debug\netcoreapp2.1\SortArrayName.pdb
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\obj\Debug\netcoreapp2.1\SortArrayName.csprojAssemblyReference.cache
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\obj\Debug\netcoreapp2.1\SortArrayName.csproj.CoreCompileInputs.cache
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\obj\Debug\netcoreapp2.1\SortArrayName.AssemblyInfoInputs.cache
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\obj\Debug\netcoreapp2.1\SortArrayName.AssemblyInfo.cs
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\obj\Debug\netcoreapp2.1\SortArrayName.dll
+C:\Projekti\C# programi\Učenje\SortArray\SortArrayName\obj\Debug\netcoreapp2.1\SortArrayName.pdb
