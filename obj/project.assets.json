@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekti\\C# programi\\Učenje\\SortArray\\SortArrayName\\SortArrayName.csproj",
-      "projectName": "SortArrayName",
-      "projectPath": "C:\\Projekti\\C# programi\\Učenje\\SortArray\\SortArrayName\\SortArrayName.csproj",
+      "projectUniqueName": "C:\\Projekti\\C# programi\\Učenje\\SortArray\\SortArrayName\\FillArrayName.csproj",
+      "projectName": "FillArrayName",
+      "projectPath": "C:\\Projekti\\C# programi\\Učenje\\SortArray\\SortArrayName\\FillArrayName.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
       "outputPath": "C:\\Projekti\\C# programi\\Učenje\\SortArray\\SortArrayName\\obj\\",
       "projectStyle": "PackageReference",

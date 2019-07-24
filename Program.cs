@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SortArrayName
+namespace FillArrayName
 {
     class Program
     {
@@ -27,6 +27,7 @@ namespace SortArrayName
                 }
                 Console.WriteLine("\n");
             }
+
         }
     }
 }
